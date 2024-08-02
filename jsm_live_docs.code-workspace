@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"name": "jsm_live_docs",
+		"path": "."
+	},
+	{
+		"name": "public",
+		"path": "../../../Downloads/public"
+	}
+],
+  "settings": {}
+}
